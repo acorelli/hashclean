@@ -1,0 +1,9 @@
+# File extensions marked as text should be normalized (converted to LF on all 
+# platforms) unless specified otherwise
+* text=auto
+
+# Miscellaneous
+LICENSE text
+*.md    text
+*.txt   text
+*.py    text

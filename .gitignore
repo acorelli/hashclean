@@ -1,0 +1,13 @@
+!.gitattributes
+!.gitignore
+!clean_hash.py
+!hash_comp.py
+!LICENSE
+!readme.md
+!requirements.txt
+!safe_words.txt.example
+!target_extensions.txt.example
+
+target_extensions.txt
+safe_words.txt
+*
