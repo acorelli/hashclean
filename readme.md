@@ -13,5 +13,6 @@ A utility to de-duplicate media and other files based on hashing the contents of
 4. Wait for results...  
 5. Run `clean_hash.py` on the results file (`hash_res.txt`)  
   > `python.exe clean_hash.py ./hash_res.txt -y`  
+    
     - use `-y` to indicate you want to delete files  
     - omit `-y` or add `-t` to run in `test` mode  
